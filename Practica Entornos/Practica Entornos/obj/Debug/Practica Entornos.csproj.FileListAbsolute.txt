@@ -1,0 +1,10 @@
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\bin\Debug\Practica Entornos.exe.config
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\bin\Debug\Practica Entornos.exe
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\bin\Debug\Practica Entornos.pdb
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\obj\Debug\Practica Entornos.csproj.AssemblyReference.cache
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\obj\Debug\Practica_Entornos.Form1.resources
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\obj\Debug\Practica_Entornos.Properties.Resources.resources
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\obj\Debug\Practica Entornos.csproj.GenerateResource.cache
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\obj\Debug\Practica Entornos.csproj.CoreCompileInputs.cache
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\obj\Debug\Practica Entornos.exe
+C:\Users\laguia18723\Desktop\Repos\Entornillos\Practica Entornos\Practica Entornos\obj\Debug\Practica Entornos.pdb

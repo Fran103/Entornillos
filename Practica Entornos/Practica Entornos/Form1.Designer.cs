@@ -40,6 +40,7 @@ namespace Practica_Entornos
             this.tNombre.Name = "tNombre";
             this.tNombre.Size = new System.Drawing.Size(100, 20);
             this.tNombre.TabIndex = 1;
+            this.tNombre.Text = "I";
             // 
             // button1
             // 
@@ -49,6 +50,7 @@ namespace Practica_Entornos
             this.button1.TabIndex = 2;
             this.button1.Text = "Añadir";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // tListaSocios
             // 
