@@ -1,0 +1,5 @@
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\FechaProg\obj\Debug\net5.0\FechaProg.csproj.AssemblyReference.cache
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\FechaProg\obj\Debug\net5.0\FechaProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\FechaProg\obj\Debug\net5.0\FechaProg.AssemblyInfoInputs.cache
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\FechaProg\obj\Debug\net5.0\FechaProg.AssemblyInfo.cs
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\FechaProg\obj\Debug\net5.0\FechaProg.csproj.CoreCompileInputs.cache

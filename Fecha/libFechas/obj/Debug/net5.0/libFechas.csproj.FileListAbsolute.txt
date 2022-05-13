@@ -1,0 +1,12 @@
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\obj\Debug\net5.0\libFechas.csproj.AssemblyReference.cache
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\obj\Debug\net5.0\libFechas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\obj\Debug\net5.0\libFechas.AssemblyInfoInputs.cache
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\obj\Debug\net5.0\libFechas.AssemblyInfo.cs
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\obj\Debug\net5.0\libFechas.csproj.CoreCompileInputs.cache
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\bin\Debug\net5.0\libFechas.deps.json
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\bin\Debug\net5.0\libFechas.dll
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\bin\Debug\net5.0\ref\libFechas.dll
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\bin\Debug\net5.0\libFechas.pdb
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\obj\Debug\net5.0\libFechas.dll
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\obj\Debug\net5.0\ref\libFechas.dll
+C:\Users\martinez19685\Desktop\repos\Entornillos\Fecha\libFechas\obj\Debug\net5.0\libFechas.pdb
